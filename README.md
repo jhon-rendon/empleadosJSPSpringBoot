@@ -9,7 +9,7 @@ Ejercicio práctico de una sola página para consultar registros de empleados de
 - Diseño responsive con Bootstrap 5
 
 ## 🛠 Tecnologías
-- **Backend**: Spring Boot 2.7
+- **Backend**: Spring Boot 3.0.5
 - **Frontend**: JSP + Bootstrap 5
 - **Base de datos**: H2 (incorporada) o MySQL
 
